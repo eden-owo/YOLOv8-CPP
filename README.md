@@ -49,7 +49,7 @@ _yolov8s.onnx:_
 
 _best_LPR.onnx:_
 
-![image](https://github.com/user-attachments/assets/ac4ba379-34a7-4675-8e8d-14af0a2ab0cc)
+![image](https://github.com/eden-owo/YOLOv8-CPP/blob/master/imgs/best_LPR.png)
 
 
 ## 📝 Notes
